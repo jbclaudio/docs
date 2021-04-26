@@ -61,7 +61,7 @@ Rapidez is making AJAX requests to the Magento API which requires CORS to be ope
 
 ### Elasticsearch
 
-If you're using your own Elasticsearch installation you've to open CORS in `elasticsearch.yml` and restart Elasticsearch. An example can be found in the the project: [`elasticsearch.yml`](https://github.com/rapidez/rapidez/blob/master/elasticsearch.yml). That configuration is used when you're using Elasticsearch from the [Docker Compose config](https://github.com/rapidez/rapidez/blob/master/docker-compose.yml).
+If you're using your own Elasticsearch installation you've to open CORS in `elasticsearch.yml` and restart Elasticsearch. An example can be found in the the project: [`elasticsearch.yml`](https://github.com/rapidez/base/blob/master/elasticsearch.yml). That configuration is used when you're using Elasticsearch from the [Docker Compose config](https://github.com/rapidez/base/blob/master/docker-compose.yml).
 
 ## Flat tables
 
