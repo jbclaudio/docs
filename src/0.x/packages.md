@@ -39,6 +39,10 @@ Some Magento modules work out of the box but most of the modules which do someth
 
 - Storyblok <Badge text="Coming soon" vertical="middle"/>
 
+### Experius
+
+- [Postcode NL](https://github.com/rapidez/experius-postcode-nl)
+
 ### Mageplaza
 
 - [Blog](https://github.com/rapidez/mageplaza-blog)
